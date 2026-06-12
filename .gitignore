@@ -1,3 +1,4 @@
 # Project files not to push to GitHub
 node_modules/
 .env
+*.docx#
