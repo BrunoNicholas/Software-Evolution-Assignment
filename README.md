@@ -1,4 +1,4 @@
-<h1 class="text-align: center;">Software-Evolution-Assignment</h1>
+<h1 class="width: 100%; text-align: center;">Software-Evolution-Assignment</h1>
 
 This is to describe the topic for the Inventory Management System
 
