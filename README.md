@@ -95,7 +95,7 @@ We appreciate all the individuals who have contributed to making this project po
  
 | Name | Role | GitHub |
 |---|---|---|
-| Bruno Nicholas | Project Lead & Backend Engineer | [@brunonicholas](https://github.com/brunonicholas) |
+| Bruno Nicholas Sserunkuma | Project Lead & Backend Engineer | [@brunonicholas](https://github.com/brunonicholas) |
 |  |  |  |
  
 Want to contribute? Fork the repo, make your changes, and open a pull request. Contributions, bug reports, and feature requests are always welcome!
